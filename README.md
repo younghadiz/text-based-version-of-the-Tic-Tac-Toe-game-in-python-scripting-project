@@ -2,7 +2,7 @@
 The text based version of the Tic Tac Toe game allows two players to take turns placing "X" or "O" on a 3x3 board and then checks for the conditions of the winner in the algorithm after each move and then ends the process when there is a winner or a draw.
 
 # How it Works 
-Board Initialization: A list <div style='background-color:gray'>board</div> of 9 spaces represents the 3x3 Tic Tac Toe board.
+Board Initialization: A list **board** of 9 spaces represents the 3x3 Tic Tac Toe board.
 
 Printing the Board: print_board() formats and displays the board.
 
